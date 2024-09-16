@@ -43,11 +43,16 @@ La capa base contiene la disposición estándar de letras y números, con modifi
 ),
 ```
 
-## Replicalo 
+## Replicarlo
+
+Clona el repositorio y navega a la carpeta del proyecto:
+
+```bash
 git clone https://github.com/tu-usuario/crkbd-config
 cd crkbd-config
 qmk compile -kb crkbd -km <nombre_de_tu_layout>
-
-
-## Flash por terminal, yo lo hago com QMK Toolbox 
+```
+## Flash por terminal 
+```
 qmk flash -kb crkbd -km <nombre_de_tu_layout>
+```
