@@ -11,7 +11,7 @@ Este repositorio contiene la configuración personalizada para el teclado Crkbd 
 
 ## Layout de Capas
 
-### Capa 0 - Base
+### Layers
 
 La capa base contiene la disposición estándar de letras y números, con modificadores en las esquinas inferiores.
 
